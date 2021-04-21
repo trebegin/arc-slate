@@ -3,7 +3,7 @@
     "manifest_version": 2,
     "version": "1",
     "name": "Arc Slate",
-    "description": "Slate is cool and composed and fades without focus",
+    "description": "Arc Slate is cool and composed and fades without focus",
     "theme": {
         "colors": {
             "frame": [
